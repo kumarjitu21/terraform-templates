@@ -1,0 +1,7 @@
+**/.terraform
+**/keypair.tf
+**/terraform.tfstate
+**/terraform.tfstate.backup
+terraform.tfstate
+terraform.tfstate.backup
+**/graph.svg
